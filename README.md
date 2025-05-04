@@ -14,7 +14,7 @@ Este projeto demonstra como realizar transfer learning usando YOLOv8  com o data
 - ### 3 Importe a rede Yolo para colab
 
 - ### 4 Importando bibliotecas necessárias para tarefas de visão computacional e inteligência artificial que serão utilizadas nesse treinamento em especifico como 
-###PyTorch, OpenCV, NumPy, Matplotlib, Ultralytics para importar o YOLO e TensorFlow
+PyTorch, OpenCV, NumPy, Matplotlib, Ultralytics para importar o YOLO e TensorFlow
 
 - ### 5 Configure  a memória GPU4
 
