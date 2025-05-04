@@ -9,12 +9,12 @@ Este projeto demonstra como realizar transfer learning usando YOLOv8  com o data
 - ## Passos para execução
 - ### 1 **Abrir o Notebook no Colab**
 
--  ### 2.Instalando três bibliotecas, para poder usar o Modelo YOLOv8 para detecção e segmentação de Objetos e matplotlib para visualização de gráficos e imagens, Opencv para processamento de imagem e vídeo
+- ### 2.Instalando três bibliotecas, para poder usar o Modelo YOLOv8 para detecção e segmentação de Objetos e matplotlib para visualização de gráficos e imagens
 
 - ### 3 Importe a rede Yolo para colab
 
 - ### 4 Importando bibliotecas necessárias para tarefas de visão computacional e inteligência artificial que serão utilizadas nesse treinamento em especifico como 
-PyTorch, OpenCV, NumPy, Matplotlib, Ultralytics para importar o YOLO e TensorFlow
+###PyTorch, OpenCV, NumPy, Matplotlib, Ultralytics para importar o YOLO e TensorFlow
 
 - ### 5 Configure  a memória GPU4
 
